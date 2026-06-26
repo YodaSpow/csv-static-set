@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Currys Frozen Outputs</title>
+  <desc id="desc">Catalogue and board views for two frozen campaign sets.</desc>
+  <rect width="1200" height="630" fill="#f5f7fb"/>
+  <circle cx="600" cy="188" r="92" fill="#5a0db4"/>
+  <text x="600" y="202" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" fill="#ffffff">currys</text>
+  <text x="600" y="360" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" fill="#202938">Currys Frozen Outputs</text>
+  <text x="600" y="438" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="500" fill="#66758d">Catalogue and board views for two frozen campaign sets</text>
+</svg>
